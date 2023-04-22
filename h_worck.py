@@ -33,3 +33,6 @@ l = ["apples", "bananas", "oranges", "carrots", "onions"]
 print(l[1])
 
 # 8 determine if line 1 is in line 2
+a = "Hello world"
+print(a)
+
